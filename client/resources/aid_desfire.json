@@ -136,4 +136,12 @@ FFFFFF General Issuer Information (FIDs 00: MAD Version; 01: Card Holder; 02: Ca
         "Description": "",
         "Type": "payment system"
     },
+    {
+        "AID": "F001D0",
+        "Vendor": "ARABAKO FORU ALDUNDIA",
+        "Country": "ES",
+        "Name": "BAT",
+        "Description": "",
+        "Type": "transport"
+    },
 ]
